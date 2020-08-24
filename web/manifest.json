@@ -1,0 +1,23 @@
+{
+    "name": "awobuto_ishola",
+    "short_name": "awobuto_ishola",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Awobuto Ishola , best Clothing accessories, shoes, bags,shirt e.t.c.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "icons/Icon-512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ]
+}
